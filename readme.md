@@ -6,7 +6,7 @@
 
 ## 🌐 Portfolio Website
 
-🔗 https://mark-kinoti-portfolio.netlify.app/
+🔗 https://kinoti-web-portfolio.netlify.app/
 
 ---
 

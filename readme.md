@@ -24,7 +24,8 @@
 | Day 1 | HTML Structure   | ✅ Completed    |
 | Day 2 | CSS Styling      | ✅ Completed    |
 | Day 3 | About Me + Photo | ✅ Completed    |
-| Day 4 | Navigation Bar   | 🔜 In Progress |
+| Day 3 | Navigation Bar   | ✅ Completed    |
+| Day 5 | Add projects     | 🔜 In Progress |
 
 ---
 

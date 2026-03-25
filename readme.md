@@ -46,7 +46,7 @@ This project is part of my journey to:
 ## 📬 Contact
 
 * 📧 Email: [markkinoti685@gmail.com](mailto:markkinoti685@gmail.com)
-* 💻 GitHub: https://github.com/KinotiDev
+* 💻 GitHub: https://github.com/Kinoti-254
 
 ---
 

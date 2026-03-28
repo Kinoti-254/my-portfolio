@@ -135,6 +135,19 @@ header p {
   margin-bottom: 0.75rem;
   color: var(--dark);
 }
+.project-images {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+
+.project-images img {
+  width: 100%;
+  max-width: 32%;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  object-fit: cover;
+}
 
 .tag {
   display: inline-block;

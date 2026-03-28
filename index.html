@@ -57,10 +57,10 @@
           <article class="project-card featured">
             <h3>Bill Splitter App</h3>
             <div class="project-images">
-              <img src="images/image3.png" alt="Dashboard view" class="main-img">
+              <img src="images/image3.png" alt="Dashboard view" class="main-img clickable-img">
               <div class="side-images">
-                <img src="images/image1.png" alt="Chart and settlements">
-                <img src="images/image2.png" alt="Bill breakdown">
+                <img src="images/image1.png" alt="Chart and settlements" class="clickable-img">
+                <img src="images/image2.png" alt="Bill breakdown" class="clickable-img">
               </div>
             </div>
             <p>A smart bill-splitting app that tracks shared expenses, calculates exact balances,and minimizes transactions between users — eliminating confusion in group payments.</p>
@@ -105,6 +105,12 @@
       <p>Built by Mark Kinoti © 2025</p>
     </footer>
 
+    <!-- IMAGE MODAL (popup) -->
+    <div id="imageModal" class="modal">
+      <span class="close">&times;</span>
+      <img class="modal-content" id="modalImg">
+    </div>
+    
     <script src="script.js" defer></script>
   </body>
 </html>
